@@ -78,3 +78,44 @@
 </div>
 
 </div>
+
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita Vavilov
+======================================================================================================================================
+
+A passionate frontend and backend developer from Ukranian
+---------------------------------------------------------
+
+I am a passionate Front-End developer with over 2 years of hands-on experience building dynamic and user-friendly web applications. Recently, I have started to expand my skills by diving into Backend development, aiming to build end-to-end solutions. During my time at CloverPlate (March 27, 2024 to August 27, 2024), I honed my knowledge of front-end technologies by collaborating on important projects and working in a fast-paced environment. Now, I am excited to leverage my skills in both Front-End and Backend to contribute to innovative and challenging projects.
+
+* 🌍  I'm based in Ukrain
+* 🖥️  See my portfolio at [Github](http://github.com/Dark-Vol/Dark-Vol)
+* ✉️  You can contact me at [overlord28985@gmail.com](mailto:overlord28985@gmail.com)
+* 🚀  I'm currently working on [Internet shop musical instrument](http://github.com/Dark-Vol/StoreShoping)
+* 🧠  I'm learning I am actively learning MySQL, Express, Nodemon, and Sequelize to expand my backend development skills.
+* 🤝  I'm open to collaborating on I am open to collaborating on new projects, including developing innovative web applications, exploring new technologies, and working with diverse teams. I want to contribute, learn and grow with passionate professionals to create impactful and meaningful solutions.
+
+<a href="https://www.github.com/Dark-Vol" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Dark-Vol?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a><a href="https://www.x.com/nikita35463156?s=11&t=Q4PVfE2RHRY9XCSWOUI7Xw" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/nikita35463156?s=11&t=Q4PVfE2RHRY9XCSWOUI7Xw?logo=twitter&style=for-the-badge&color=6366f1&labelColor=1c1917"
+/></a>
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/mektuc" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Dark-Vol" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/никита-вавилов-1081561b4/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/20598234/Никита" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/nikita35463156?s=11&t=Q4PVfE2RHRY9XCSWOUI7Xw" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Dark-Vol"><img src="https://github-readme-stats.vercel.app/api?username=Dark-Vol&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="Dark-Vol's GitHub stats" /></a>
+
+<a href="http://www.github.com/Dark-Vol"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dark-Vol&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Dark-Vol"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Dark-Vol&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/Dark-Vol" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Vol&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Dark-Vol/https://github.com/Dark-Vol/StoreShoping" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dark-Vol&repo=https://github.com/Dark-Vol/StoreShoping&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
