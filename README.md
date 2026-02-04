@@ -11,7 +11,7 @@
 <div align="center" style="max-width: 800px; margin: 0 auto; padding: 20px;">
   <p style="font-size: 1.1rem; line-height: 1.8; color: #6c757d; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 25px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); border-left: 5px solid #667eea;">
     <strong style="color: #495057; font-size: 1.2rem;">Frontend & Backend Developer from Ukraine</strong><br><br>
-    I am a passionate Front-End developer with over 2 years of hands-on experience building dynamic and user-friendly web applications.
+    I am a passionate Front-End developer with over 3 years of hands-on experience building dynamic and user-friendly web applications.
     Recently, I have started to expand my skills by diving into Backend development, aiming to build end-to-end solutions.
     During my time at CloverPlate (from March 2024 to August 2025), I honed my knowledge of front-end technologies by collaborating on important projects and working in a fast-paced environment.
     Now, I am excited to leverage my skills in both Front-End and Backend to contribute to innovative and challenging projects.
